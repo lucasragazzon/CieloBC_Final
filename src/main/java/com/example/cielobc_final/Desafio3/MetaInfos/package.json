@@ -1,0 +1,9 @@
+{
+  "properties" : [
+    {
+      "name" : "sqs.queue.name",
+      "type" : "java.lang.string",
+      "description": "Sqs queue name in AWS"
+    }
+  ]
+}
